@@ -1,7 +1,7 @@
 # NTU GIT CLASS EXERCISE 1
 
 Name
-薩科買地殼
+何昂軒
 
 
 Date
@@ -9,7 +9,7 @@ Date
 
 
 Github Username
-akmin1989
+sumr1204
 
 
 My Favorite 3 Programming Languages
